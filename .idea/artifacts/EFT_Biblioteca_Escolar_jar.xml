@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EFT_Biblioteca_Escolar:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EFT_Biblioteca_Escolar_jar</output-path>
+    <root id="archive" name="EFT_Biblioteca_Escolar.jar">
+      <element id="module-output" name="EFT_Biblioteca_Escolar" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/mysql-connector-j-26.7.0/mysql-connector-j-26.7.0/mysql-connector-j-26.7.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
